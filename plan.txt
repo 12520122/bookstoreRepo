@@ -1,2 +1,5 @@
 12/4/2016
+<<<<<<< HEAD
 nhom2lapkehoach
+lapkehoachnhom3
+>>>>>>> nhom3
